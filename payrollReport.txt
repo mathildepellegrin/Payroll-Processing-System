@@ -1,0 +1,21 @@
+> Opening file payroll...
+> Reading file payroll...
+> Error lines found in file payroll...
+
+
+1003 Mike Brown 30 14.00
+
+> 5 lines read from file payroll
+> 1 lines written to error file
+> Calculating deductions...
+> Writing report file...
+
+                           iDroid Solutions
+                          -------------------
+
+Employee#  First Name Last Name  Gross Salary    Deductions      Net Salary     
+------------------------------------------------------------------------------
+1001       John       Doe        $41600.00       $17444.54       $24155.46      
+1002       Jane       Smith      $33670.00       $14119.18       $19550.82      
+1004       Emily      Davis      $51480.00       $21587.62       $29892.38      
+1005       Robert     White      $16640.00       $4648.22        $11991.78      
