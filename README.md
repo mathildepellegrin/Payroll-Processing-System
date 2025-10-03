@@ -1,5 +1,5 @@
 # Payroll-Processing-System
-📌 Project Overview
+Project Overview
 
 This project processes payroll data for iDroid Solutions, calculating employee salaries, deductions, and generating payroll reports. It demonstrates the use of:
 
@@ -43,7 +43,7 @@ This project processes payroll data for iDroid Solutions, calculating employee s
  
   ├ 📄 README.md           # Documentation (this file)
 
- 🚀 How to Run
+ How to Run
  1. Compile java files and input payroll information to payroll.txt
  2. Run main program (PayrollProcessor)
  3. Check output files
